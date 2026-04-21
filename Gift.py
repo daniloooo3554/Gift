@@ -24,8 +24,8 @@ STATS_FILE = "bot_stats.json"
 
 # === НАСТРОЙКИ ДЛЯ RENDER ===
 # Замени 'YOUR_RENDER_APP_NAME' на имя твоего сервиса на Render
-RENDER_APP_NAME = "YOUR_RENDER_APP_NAME" 
-WEBHOOK_URL = f"https://{RENDER_APP_NAME}.onrender.com/webhook"
+RENDER_APP_NAME = "Gift" 
+WEBHOOK_URL = f"https://Gift.onrender.com/webhook"
 # =============================
 
 class Form(StatesGroup):
